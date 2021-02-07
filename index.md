@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: 陈瑶
+title: Wode "Nimo" Ni
 email:
-  url: 13127917495@163.com
-  text: 13127917495@163.com
+  url: mailto:woden@cs.cmu.edu
+  text: woden@cs.cmu.edu
 homepage:
-  url: https://github.com/Yao-chen-ecnu
-  text: https://github.com/Yao-chen-ecnu
+  url: http://cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden
 ---
 
-# 陈瑶
+# Wode **Ni**
 
 <!--
 include contact information from the front matter
@@ -21,30 +21,81 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## Education
 
-### **华东师范大学** `2020.9 - 至今`
+### **Carnegie Mellon University** `2018.9 -`
 
-- 电子信息 硕士在读
+```
+Pittsburgh, PA
+```
 
-### **东华大学** `2016.9 - 2020.7`
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-- 信息安全 学士
+### **Columbia University** `2016.9 - 2018.5`
 
-## Honors & Awards
+```
+New York, NY
+```
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### **Dickinson College** `2013.9 - 2016.5`
+
+```
+Carlisle, PA
+```
+
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
+
+## Publications
+
+### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
+Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
+_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
+[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
+[[www](http://penrose.ink/siggraph20.html)]
+[[repo](https://github.com/penrose/penrose)]
+
+### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+
+Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
+<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
+_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
+[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
+[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+
+### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+
+Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
+_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
+[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
+[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
+
+### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+
+Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
+_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
+[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
+[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+
+### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+
+**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
+[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
+[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
+[[www](http://penrose.ink)]
+[[repo](https://github.com/penrose/penrose)]
 
 ---
+
+### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
+
+**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
+[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 ## Experience
 
@@ -67,6 +118,26 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
+## Mentoring
+
+Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
+Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+
+## Honors & Awards
+
+CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
+Phi Beta Kappa `Dickinson, 2018` <br>
+Excellence in Computer Science Award `Columbia, 2018` <br>
+Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
+Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
+Computer Science Departmental Honors `Dickinson, 2016` <br>
+Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
+Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
+Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
+John Montgomery Scholarship `Dickinson, 2013` <br>
+
+---
 
 ## Teaching
 
