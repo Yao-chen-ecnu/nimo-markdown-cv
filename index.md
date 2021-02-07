@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 陈瑶
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: 13127917495@163.com
+  text: 13127917495@163.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://github.com/Yao-chen-ecnu
+  text: https://github.com/Yao-chen-ecnu
 ---
 
-# Wode **Ni**
+# 陈瑶
 
 <!--
 include contact information from the front matter
