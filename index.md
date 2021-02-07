@@ -9,7 +9,7 @@ homepage:
   text: https://github.com/Yao-chen-ecnu
 ---
 
-# 陈瑶
+## 陈瑶
 
 <!--
 include contact information from the front matter
