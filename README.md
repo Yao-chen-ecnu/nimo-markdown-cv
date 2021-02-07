@@ -1,4 +1,4 @@
-nimo-markdown-cv
+markdown-cv
 ================
 
 <p align="center">
