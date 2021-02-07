@@ -21,9 +21,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Carnegie Mellon University** `2018.9 -`
+### **东华大学** `2018.9 -`
 
 ```
 Pittsburgh, PA
@@ -32,7 +32,7 @@ Pittsburgh, PA
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **华东师范大学** `2016.9 - 2018.5`
 
 ```
 New York, NY
