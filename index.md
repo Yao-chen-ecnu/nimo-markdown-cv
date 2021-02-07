@@ -23,33 +23,13 @@ Supported arguments:
 
 ## 教育经历
 
-### **东华大学** `2018.9 -`
+### **华东师范大学** `2020.9 - 至今`
 
-```
-Pittsburgh, PA
-```
+- 电子信息 硕士在读
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+### **东华大学** `2016.9 - 2020.7`
 
-### **华东师范大学** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
+- 信息安全 学士
 
 ## Experience
 
